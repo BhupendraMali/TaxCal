@@ -1,7 +1,6 @@
 package com.company.taxcal.mapper;
 
 import com.company.taxcal.errorhandler.TaxCalculatorNoValidTransactionException;
-import com.company.taxcal.service.CalculateTaxImpl;
 import com.compay.taxcal.model.TaxType;
 import com.compay.taxcal.model.Transaction;
 import org.slf4j.Logger;

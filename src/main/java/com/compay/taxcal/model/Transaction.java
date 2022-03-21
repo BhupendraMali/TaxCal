@@ -4,7 +4,7 @@ package com.compay.taxcal.model;
 import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
-import java.util.Currency;
+
 
 @Component
 public class Transaction {
